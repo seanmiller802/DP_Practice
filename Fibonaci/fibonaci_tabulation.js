@@ -5,7 +5,7 @@ function fib(n) {
     sequence[i] = sequence[i-1] + sequence[i-2];
   }
   console.log(sequence);
-  return sequence;
+  return sequence[n];
 }
 
 fib(6);
