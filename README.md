@@ -1,3 +1,3 @@
 Basic DP Problems
 
-Fibonaci
+- Fibonaci
